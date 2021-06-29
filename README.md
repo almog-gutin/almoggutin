@@ -2,12 +2,12 @@
 
 <p align="center"> 
     <a href=""> <img src="https://img.shields.io/badge/-website-181717?style=for-the-badge&labelColor=black&logo=google-chrome&logoColor=white"/> </a>
-    <a href="https://www.linkedin.com/in/almog-gutin-5443a8203/"> <img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5"/> </a>
+    <a href="https://www.linkedin.com/in/almoggutin-5443a8203/"> <img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5"/> </a>
     <a href="mailto:almogm.gutin@gmail.com"> <img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335"/> </a>
     <a href="https://www.facebook.com/almog.golangutin/"> <img src="https://img.shields.io/badge/-facebook-1877F2?style=for-the-badge&labelColor=black&logo=facebook&logoColor=1877F2%22"> </a>
-    <a href="https://www.instagram.com/almog_gutin/"> <img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&labelColor=black&logo=instagram&logoColor=E4405F"/> </a>
-    <a href="https://twitter.com/almog_gutin"> <img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&labelColor=black&logo=twitter&logoColor=1DA1F2%22"/> </a>
-    <a href="https://github.com/almog-gutin"> <img src="https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white"/> </a>
+    <a href="https://www.instagram.com/almoggutin/"> <img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&labelColor=black&logo=instagram&logoColor=E4405F"/> </a>
+    <a href="https://twitter.com/almoggutin"> <img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&labelColor=black&logo=twitter&logoColor=1DA1F2%22"/> </a>
+    <a href="https://github.com/almoggutin"> <img src="https://img.shields.io/badge/-github-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white"/> </a>
     <a href="https://hub.docker.com/u/almoggutin"> <img src="https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED%22"/> </a>
     <br/>
     <b><em>“The only time success comes before work is in the dictionary.” - Harvey Specter</em></b>
