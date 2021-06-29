@@ -2,7 +2,7 @@
 
 <p align="center"> 
     <a href=""> <img src="https://img.shields.io/badge/-website-181717?style=for-the-badge&labelColor=black&logo=google-chrome&logoColor=white"/> </a>
-    <a href="https://www.linkedin.com/in/almoggutin-5443a8203/"> <img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5"/> </a>
+    <a href="https://www.linkedin.com/in/almoggutin/"> <img src="https://img.shields.io/badge/-linkedin-0077B5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077B5"/> </a>
     <a href="mailto:almogm.gutin@gmail.com"> <img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335"/> </a>
     <a href="https://www.facebook.com/almog.golangutin/"> <img src="https://img.shields.io/badge/-facebook-1877F2?style=for-the-badge&labelColor=black&logo=facebook&logoColor=1877F2%22"> </a>
     <a href="https://www.instagram.com/almoggutin/"> <img src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&labelColor=black&logo=instagram&logoColor=E4405F"/> </a>
