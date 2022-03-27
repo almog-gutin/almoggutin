@@ -36,7 +36,7 @@
 npx almog-gutin
 ```
 
-**👆 This command line tool can be found at [npx almog-gutin](https://github.com/almog-gutin/npx-almog-gutin)**
+**👆 This command line tool can be found at [NPX-Card](https://github.com/almoggutin/NPX-Card)**
 
 ## A little more about me...
 
