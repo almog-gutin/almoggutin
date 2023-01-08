@@ -40,7 +40,7 @@ npx almog-gutin
 
 ## A little more about me...
 
-My name is Almog Gutin. I am a Full-Stack & Devops Developer at HyperActive HiTech and Course Instructor at Talpiot HiTech. I wrote my first code when I was in the 4th grade and since then I knew I wanted to become a software developer.
+My name is Almog Gutin. I am a Full Stack Developer at Tabit - Restaurant Technologies. In my previous jobs, I was a Full Stack & DevOps Developer and Course Instructor. I wrote my first code when I was in the 4th grade and since then I knew I wanted to become a software developer.
 
 I'm a hard worker, who sticks to his values. I know my strengths and weaknesses and I study and work hard in order to build up my weaknesses into strengths.
 
@@ -52,11 +52,11 @@ const almog = {
     code: ['Javascript', 'Typescript', 'C#', 'Java', 'Python'],
     askMeAbout: ['web dev', 'devops', 'databases'],
     technologies: {
-        frontEnd: {
+        frontend: {
             js: ['React', 'Angular'],
             css: ['css', 'sass', 'scss'],
         },
-        backEnd: {
+        backend: {
             js: ['Node', 'Express'],
             cSharp: ['ASP.NET', '.NET Framework', '.NET Core'],
         },
@@ -67,6 +67,7 @@ const almog = {
             cloudProviders: ['AWS'],
             scaling: ['Docker🐳', 'Kubernetes'],
             linux: ['Command Line', 'Bash Scripts'],
+            cicd: ['circleCi'],
         },
         databases: {
             sql: ['MySQL', 'MsSQL'],
