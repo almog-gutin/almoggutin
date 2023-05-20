@@ -40,9 +40,9 @@ npx almog-gutin
 
 ## A little more about me...
 
-My name is Almog Gutin. I am a Full Stack Developer at Tabit - Restaurant Technologies. In my previous jobs, I was a Full Stack & DevOps Developer and Course Instructor. I wrote my first code when I was in the 4th grade and since then I knew I wanted to become a software developer.
+I'm Almog Gutin, a seasoned Full Stack Developer presently contributing to the success of Tabit - Restaurant Technologies. With past experiences as a Full Stack Developer, along with my tenure as a Course Instructor, my journey in the coding realm started when I was merely a fourth grader. That early interest instilled in me a passion for software development that has guided my career path.
 
-I'm a hard worker, who sticks to his values. I know my strengths and weaknesses and I study and work hard in order to build up my weaknesses into strengths.
+I characterize myself as a committed professional with a steadfast adherence to my values. I possess a clear understanding of my strengths and areas that need enhancement, and I constantly strive to transform those areas into new competencies through diligent study and focused practice.
 
 ## Technologies 💻
 
